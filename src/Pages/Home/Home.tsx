@@ -1,9 +1,7 @@
-
-
 export default function Home() {
   return (
-    <div>
-      <h1>Apenas a home</h1>
+    <div className="homeContainer bg-cover bg-home-image w-screen h-748 ">
+      {/* Conteúdo da Home */}
     </div>
-  )
+  );
 }
