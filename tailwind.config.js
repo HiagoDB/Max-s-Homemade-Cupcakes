@@ -15,6 +15,10 @@ export default {
       colors: {
         // Project colors
         primary: '#E63F97',
+        imgColorTop: '#151213',
+        imgColorMid: '#191717',
+        imgColorBot: '#110D0E',
+        footerColor: '#F08CC1',
       },
       backgroundImage:{
         'home-image': "url('./src/assets/homeImage.svg')"
