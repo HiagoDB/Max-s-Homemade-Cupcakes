@@ -43,9 +43,10 @@ export default function Home() {
         </div>
       </section>
       <div>
-        <p className=" font-['Montserrat'] text-[#747474] font-normal flex items-center justify-center text-2xl py-9" >
-        Combining Max's baking skills with Caroline's business and networking <br />
-        knowledge, Max's Homemade Cupcakes was born in September 2011.
+        <p className=" font-['Montserrat'] text-[#747474] font-normal flex items-center justify-center text-2xl py-9">
+          Combining Max's baking skills with Caroline's business and networking{" "}
+          <br />
+          knowledge, Max's Homemade Cupcakes was born in September 2011.
         </p>
       </div>
     </main>
