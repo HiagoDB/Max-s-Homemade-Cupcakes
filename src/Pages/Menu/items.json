@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vanilla",
+    "description": "Moist vanilla cupcake with light vanilla frosting",
+    "image": "../../src/assets/vanilla.svg"
+  },
+  {
+    "name": "Chocolate",
+    "description": "Rich chocolate taste with chocolate buttercream icing. Chocolate sprinkles optional.",
+    "image": "../../src/assets/chocolate.svg"
+  },
+  {
+    "name": "Red Velvet",
+    "description": "Moist red cocoa cupcake with cream cheese frosting.",
+    "image": "../../src/assets/redvelve.svg"
+  },
+  {
+    "name": "Salty & Spice",
+    "description": "Cinnamon spice cake flavor covered with cream cheese frosting and a hint of caramel sauce.",
+    "image": "../../src/assets/salty.svg"
+  },
+  {
+    "name": "Beer Batter Maple Bacon",
+    "description": "Chocolate beer batter flavor with cream cheese frosting and crunchy-sweet bacon bits.",
+    "image": "../../src/assets/beer.svg"
+  },
+  {
+    "name": "Blueberry Lemonzest",
+    "description": "Light and fluffy blueberry cupcake with lemon cream cheese frosting. Topped with a fresh blueberry.",
+    "image": "../../src/assets/blueb.svg"
+  },
+  {
+    "name": "Cocconut Coffee",
+    "description": "Light and fluffy coconut cupcake with espresso buttercream. Topped with coconut shavings.",
+    "image": "../../src/assets/coconut.svg"
+  },
+  {
+    "name": "The Earl",
+    "description": "Decadent dark chocolate cupcake covered in a rich chocolate frosting. Topped with dark chocolate chips.",
+    "image": "../../src/assets/earl.svg"
+  },
+  {
+    "name": "Chocolate Peanut Butter ",
+    "description": "Dark chocolate cupcake, peanut butter buttercream frosting with chocolate syrup and chopped peanuts. ",
+    "image": "../../src/assets/peanut.svg"
+  },
+  {
+    "name": "Pumpkin Spice",
+    "description": "Pumpkin flavored cupcake with hints of nutmeg and cinnamon. Topped with cream cheese frosting",
+    "image": "../../src/assets/pumpkin.svg"
+  },
+  {
+    "name": "Very Very Vanilla",
+    "description": "Light and fluffy vanilla cupcake with rich vanilla buttercream frosting",
+    "image": "../../src/assets/veryv.svg"
+  },
+  {
+    "name": "Chocolate Espresso",
+    "description": "Moist chocolate cupcake topped with espresso buttercream.",
+    "image": "../../src/assets/espresso.svg"
+  }
+]
