@@ -12,16 +12,16 @@ export default function Footer() {
             <Link to="/aboutUs">About us</Link>
           </li>
           <li className="transition transform hover:scale-105">
-            <Link to="/aboutUs">Menu</Link>
+            <Link to="/Menu">Menu</Link>
           </li>
           <li className="transition transform hover:scale-105">
-            <Link to="/aboutUs">FAQ</Link>
+            <Link to="/Contacts">FAQ</Link>
           </li>
           <li className="transition transform hover:scale-105">
-            <Link to="/aboutUs">Contact</Link>
+            <Link to="/Contacts">Contact</Link>
           </li>
           <li className="transition transform hover:scale-105">
-            <Link to="/aboutUs">Home</Link>
+            <Link to="/">Home</Link>
           </li>
         </ul>
       </div>

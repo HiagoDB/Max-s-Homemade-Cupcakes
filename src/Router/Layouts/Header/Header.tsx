@@ -11,7 +11,7 @@ export default function Header() {
         </Link>
       </div>
       <nav className="navItems flex items-center gap-6 ">
-        <ul className="listContainer flex gap-10 sm:gap-4 lg:text-lg md:text-base sm:text-sm">
+        <ul className="listContainer flex gap-10 sm:gap-4 md:gap-6 lg:gap-20 lg:text-lg md:text-base sm:text-sm">
           <li className="text-white transition transform hover:scale-105">
             <Link to="/">Home</Link>
           </li>
