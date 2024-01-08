@@ -27,8 +27,8 @@ export default function Header() {
         </ul>
       </nav>
       <div className="cartContainer flex items-center gap-3 mt-3 sm:mt-0">
-        <button className="bg-black text-white lg:text-lg md:text-base sm:text-sm py-2 lg:px-8 md:px-6 sm:px-3 rounded-md transition transform hover:scale-105">ORDER NOW</button>
-        <img className="cart w-45 h-45 sm:w-[30px] sm:h-[30px] cursor-pointer transition transform hover:scale-105" src={Cart} alt="shopping cart" />
+        <Link to="/Menu"><button className="bg-black text-white lg:text-lg md:text-base sm:text-sm py-2 lg:px-8 md:px-6 sm:px-3 rounded-md transition transform hover:scale-105">ORDER NOW</button> </Link>
+        <Link to="/Cart"><img className="cart w-45 h-45 sm:w-[30px] sm:h-[30px] cursor-pointer transition transform hover:scale-105" src={Cart} alt="shopping cart" /> </Link>
       </div>
     </header>
   );

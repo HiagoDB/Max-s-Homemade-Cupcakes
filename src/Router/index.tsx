@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 import AboutUs from "../Pages/AboutUs/AboutUs";
 import Contacts from "../Pages/Contacts/ContactUs";
 import Menu from "../Pages/Menu/Menu";
+import Cart from "../Pages/Cart/Cart";
 
 export default function index() {
   return (
@@ -14,6 +15,7 @@ export default function index() {
           <Route path="/AboutUs" element={<AboutUs />} />
           <Route path="/Contacts" element={<Contacts />} />
           <Route path="/Menu" element={<Menu />} />
+          <Route path="/Cart" element={<Cart />} />
         </Route>
       </Routes>
     </BrowserRouter>

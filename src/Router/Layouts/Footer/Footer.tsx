@@ -26,7 +26,7 @@ export default function Footer() {
         </ul>
       </div>
 
-      <div className="logoContainer flex gap-[104px]">
+      <div className="logoContainer flex gap-[104px] pl-20">
         <ul className="logoList flex flex-col gap-[29px] pt-[34px]">
           <li>
             <img

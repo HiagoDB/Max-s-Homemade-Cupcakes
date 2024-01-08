@@ -27,7 +27,7 @@ interface CustomArrowProps {
 const CustomPrevArrow: React.FC<CustomArrowProps> = ({ onClick, className }) => (
   <img
     onClick={onClick}
-    className={` z-10 w-12 h-12 custom-prev-arrow ${className || ""} transition transform hover:scale-150`}
+    className={` z-10 w-12 h-12  custom-prev-arrow ${className || ""} transition transform hover:scale-150`}
     src={CustomPrevArrowImage}
     alt="Previous"
   />
@@ -86,7 +86,7 @@ export default function Carousel() {
 
   return (
 
-    <div className=" w-3/4 m-auto ">
+    <div className=" w-3/4 m-auto  ">
       <Slider {...settings}>
         {data.map((d, key) => (
 
